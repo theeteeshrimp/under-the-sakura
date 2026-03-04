@@ -1,0 +1,7 @@
+# Ren'Py save and build artifacts
+**/saves/
+**/*.rpyc
+**/*.rpa
+**/log.txt
+**/traceback.txt
+**/errors.txt
