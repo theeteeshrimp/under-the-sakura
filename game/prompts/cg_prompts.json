@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bg_street_night",
+    "type": "background",
+    "output": "game/images/bg/street_night.png",
+    "prompt": "Anime background, Bangkok side street at blue hour, soft neon reflections on wet pavement, cinematic composition, no people, no text, high quality visual novel background, 16:9."
+  },
+  {
+    "id": "bg_sakura_path",
+    "type": "background",
+    "output": "game/images/bg/sakura_path.png",
+    "prompt": "Anime background, sakura tree path at night with falling petals, gentle lantern lighting, dreamy atmosphere, no people, no text, visual novel background, 16:9."
+  },
+  {
+    "id": "bg_cafe_evening",
+    "type": "background",
+    "output": "game/images/bg/cafe_evening.png",
+    "prompt": "Anime background, cozy small cafe interior evening, warm lights, two seats by window, no people, no text, visual novel background, 16:9."
+  },
+  {
+    "id": "cg_first_meet",
+    "type": "cg",
+    "output": "game/images/cg/cg_first_meet.png",
+    "prompt": "Anime CG scene, two college-age friends meet under sakura trees at night, emotional but subtle expression, petals drifting, cinematic framing, no text, visual novel CG, 16:9."
+  },
+  {
+    "id": "cg_choice_split",
+    "type": "cg",
+    "output": "game/images/cg/cg_choice_split.png",
+    "prompt": "Anime CG scene showing emotional tension at night path, one character hesitating while another waits under sakura, cinematic, no text, visual novel CG, 16:9."
+  },
+  {
+    "id": "cg_dawn_promise",
+    "type": "cg",
+    "output": "game/images/cg/cg_dawn_promise.png",
+    "prompt": "Anime CG scene at early dawn under sakura trees, hopeful mood, two friends smiling quietly, soft sunrise glow, no text, visual novel CG, 16:9."
+  }
+]
